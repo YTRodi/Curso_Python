@@ -1,4 +1,6 @@
+# --------------------------------------------------- MODULOS
 import os
+
 # --------------------------------------------------- CONSTANTES
 KEYS = {
     'a': 'w',
@@ -129,6 +131,7 @@ def run():
             
         input('Toque una tecla para continuar...')
         os.system('clear')
+        
 # --------------------------------------------------- ENTRY POINT
 if __name__ == "__main__":
     print('M E N S A J E S  C I F R A D O S')
